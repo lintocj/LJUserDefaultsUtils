@@ -2,15 +2,15 @@ PODS:
   - LJUserDefaultsUtils (1.0.0)
 
 DEPENDENCIES:
-  - LJUserDefaultsUtils (from `../LJUserDefaultsUtils/`)
+  - LJUserDefaultsUtils
 
-EXTERNAL SOURCES:
-  LJUserDefaultsUtils:
-    :path: "../LJUserDefaultsUtils/"
+SPEC REPOS:
+  trunk:
+    - LJUserDefaultsUtils
 
 SPEC CHECKSUMS:
   LJUserDefaultsUtils: 988d114f6f3a4f925396b9bee5df164f3e21f3d7
 
-PODFILE CHECKSUM: 176d2d595682730f14254590675f3bda964cf900
+PODFILE CHECKSUM: 6a72bff9b9360e6c024700aaefa7149606a6789f
 
 COCOAPODS: 1.9.3

@@ -7,6 +7,6 @@ target 'EXample' do
 
   # Pods for EXample
 
- pod 'LJUserDefaultsUtils', :path => "../LJUserDefaultsUtils/"
+ pod 'LJUserDefaultsUtils'
 
 end
