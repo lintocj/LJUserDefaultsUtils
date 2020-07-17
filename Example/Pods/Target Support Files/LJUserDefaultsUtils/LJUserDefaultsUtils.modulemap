@@ -1,0 +1,6 @@
+framework module LJUserDefaultsUtils {
+  umbrella header "LJUserDefaultsUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

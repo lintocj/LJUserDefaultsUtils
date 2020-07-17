@@ -1,0 +1,16 @@
+PODS:
+  - LJUserDefaultsUtils (1.0.0)
+
+DEPENDENCIES:
+  - LJUserDefaultsUtils (from `../LJUserDefaultsUtils/`)
+
+EXTERNAL SOURCES:
+  LJUserDefaultsUtils:
+    :path: "../LJUserDefaultsUtils/"
+
+SPEC CHECKSUMS:
+  LJUserDefaultsUtils: 988d114f6f3a4f925396b9bee5df164f3e21f3d7
+
+PODFILE CHECKSUM: 176d2d595682730f14254590675f3bda964cf900
+
+COCOAPODS: 1.9.3
